@@ -635,8 +635,9 @@ select option,
 }
 
 .btn {
-  background-image: linear-gradient(142.17deg, #3086FF 6.66%, #304CFD 91.48%);
-  box-shadow: inset -0.25rem -0.25rem 0.3125rem rgba(0, 0, 0, 0.1), inset 0.25rem 0.25rem 0.3125rem rgba(255, 255, 255, 0.23);
+/*  background-image: linear-gradient(142.17deg, #3086FF 6.66%, #304CFD 91.48%);*/
+background-image: linear-gradient(142.17deg, #304CFD 91.48%, #304CFD 91.48%);
+/*  box-shadow: inset -0.25rem -0.25rem 0.3125rem rgba(0, 0, 0, 0.1), inset 0.25rem 0.25rem 0.3125rem rgba(255, 255, 255, 0.23);*/
   border-radius: 20px;
   border: 0;
   color: #fff;
